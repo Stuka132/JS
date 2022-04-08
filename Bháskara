@@ -1,0 +1,5 @@
+var a = 1;
+var b = 8;
+var c = -9;
+delta = Math.pow(b, 2) - 4*a*c
+alert("x1: " + ((-b + Math.sqrt(delta))/2) +"\n"+ "x2: "+(-b - Math.sqrt(delta))/2)
